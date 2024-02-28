@@ -15,7 +15,7 @@ Provides insights into the rental market, indicating housing affordability in te
 3. Zillow Home Value Index by County (Mid-value homes in 35th – 65th percentile)
 Reflects the average home values for homes in 35th-65th percentile, serving as a metric for housing affordability for home buyers. [Zillow Research Data](https://www.zillow.com/research/data/)
 
-[Final Report]()
+[Final Report](https://github.com/avocado21/Housing-Affordability-and-Debt-in-America/blob/main/Capstone%20Three%20-%20Final%20Report%20-%20Housing%20Affordability%20and%20Debt%20in%20America.pdf)
 
 Please review the Final Report for details data cleaning and exploration techniques used including insightful visualizations. Ultimately I transitioned to Tableau Public for advanced interactive analysis. 
 
