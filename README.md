@@ -19,7 +19,7 @@ Reflects the average home values for homes in 35th-65th percentile, serving as a
 
 Please review the Final Report for details data cleaning and exploration techniques used including insightful visualizations. Ultimately I transitioned to Tableau Public for advanced interactive analysis. 
 
-[Tableau Story Point]()
+[Tableau Story Point](https://public.tableau.com/app/profile/gayla.rios/viz/HousingAffordabilityandDebtinAmerica/2023HousingAffordabilityandDebtinAmerica?publish=yes)
 
 **Conclusion**
 The Tableau story point visualizations present a comprehensive look into the relationship between household income, debt trends, and housing affordability across the U.S. at both state and county levels. In the state-by-state analysis, there's a juxtaposition of average household income against debt rates. Some states, despite having high average incomes, show a significant portion of the population in debt, indicating that a higher income doesn't always correlate with lower debt. Conversely those states with the highest levels of debt almost always also have the lowest income levels.
